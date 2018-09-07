@@ -1,0 +1,1 @@
+thanks: https://github.com/marharyta/webpack-boilerplate

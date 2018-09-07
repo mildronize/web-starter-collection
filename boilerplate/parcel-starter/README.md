@@ -1,3 +1,7 @@
+# Parcel sass starter
+- parcel
+- autoprefixer
+- sass
 
 ```
 npm init

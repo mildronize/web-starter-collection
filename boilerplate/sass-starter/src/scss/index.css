@@ -13,3 +13,8 @@ h1 {
 
 ::placeholder {
   color: gray; }
+
+ul li {
+  display: block; }
+  ul li a {
+    color: white; }

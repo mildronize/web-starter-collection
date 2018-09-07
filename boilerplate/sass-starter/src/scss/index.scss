@@ -18,3 +18,13 @@ h1{
 ::placeholder {
     color: gray;
   }
+
+ul {
+  li {
+    display: block;
+
+    a {
+      color: white;
+    }
+  }
+}
