@@ -12,7 +12,7 @@
     "start": "webpack --mode development",
     "build": "webpack --mode production"
   },
-  "dependencies": {
+  "devDependencies": {
     "autoprefixer": "^8.6.3",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
