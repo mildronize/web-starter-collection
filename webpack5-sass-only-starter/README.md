@@ -1,0 +1,1 @@
+Minimal version: The article is here: https://www.dotnetthailand.com/to-other-languages/typescript-for-c-sharp-developers/webpack-configuration-for-sass-only
